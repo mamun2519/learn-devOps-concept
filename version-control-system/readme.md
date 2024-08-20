@@ -30,7 +30,9 @@
 
 - set git alias
   ⇒ It helps to write shortcut git command
+
   example
+
   ⇒ git config —global [alias.co](http://alias.co) “checkout”
 
 use commend ⇒ git co master
