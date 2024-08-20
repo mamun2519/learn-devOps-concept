@@ -36,3 +36,12 @@
   ⇒ git config —global [alias.co](http://alias.co) “checkout”
 
 use commend ⇒ git co master
+
+### Git Remote
+
+- Git clone <repo>
+- git remote
+- git remote add <remote_name>
+- git pull origin <branch>
+- git fetch
+- git push origin <branch>
