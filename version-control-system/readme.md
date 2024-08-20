@@ -21,12 +21,16 @@
 ### Git Commit
 
 - How to write a commit message
-
-**Convention**
+- What conversion do we follow
+  **Convention**
 
 ⇒ use this command ⇒ git commit ⇒ write details commit
 
 ⇒ use always present tense
 
-- What conversion do we follow
 - set git alias
+  ⇒ It helps to write shortcut git command
+  example
+  ⇒ git config —global [alias.co](http://alias.co) “checkout”
+
+use commend ⇒ git co master
