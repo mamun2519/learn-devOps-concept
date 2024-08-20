@@ -17,3 +17,9 @@
 - git reset
 - git log
 - Git branch Create ⇒ git checkout -b branch name
+
+### Git Commit
+
+- How to write a commit message
+- What conversion do we follow
+- set git alias
