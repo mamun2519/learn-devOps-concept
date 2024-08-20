@@ -21,5 +21,12 @@
 ### Git Commit
 
 - How to write a commit message
+
+**Convention**
+
+⇒ use this command ⇒ git commit ⇒ write details commit
+
+⇒ use always present tense
+
 - What conversion do we follow
 - set git alias
