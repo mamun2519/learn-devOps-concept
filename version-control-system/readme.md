@@ -5,3 +5,12 @@
 ### **What is git**
 
 ⇒ git is a version control system for tracking code changes and facilitating collaboration among developers.
+
+### Basic git commands
+
+- git init
+- git add <file>
+- git commit -m “commit message”
+- git status
+- git branch
+- git checkout branch
