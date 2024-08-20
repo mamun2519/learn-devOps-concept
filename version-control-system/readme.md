@@ -16,3 +16,4 @@
 - git checkout branch
 - git reset
 - git log
+- Git branch Create ⇒ git checkout -b branch name
