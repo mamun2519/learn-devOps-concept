@@ -55,3 +55,20 @@ step
 ⇒ use this command ⇒ ssh-keygen -t rsa -b 4096 -c “email”
 
 - Then enter when not generate SSH
+
+### Git Locally SSH Key setup
+
+step
+
+- first, generate a local SSH key
+
+⇒ use this command ⇒ ssh-keygen -t rsa -b 4096 -c “email”
+
+- Then enter when not generated SSH
+- See this ssh key
+
+⇒cd .ssh
+
+- Then copy SSH key and go GitHub setting
+
+⇒ visited github ⇒ SSH and GPG kays ⇒ write title or paste this key
