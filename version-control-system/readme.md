@@ -37,18 +37,6 @@
 
 use commend ⇒ git co master
 
-### Git Remote
-
-- Git clone <repo>
-- git remote
-- git remote add <remote_name>
-- git pull origin <branch>
-- git fetch
-- git push origin <branch>
-- check remote ⇒ git remote
-- git remote -v
-- add new remote origin repoName
-
 ### Git Locally SSH Key setup
 
 step
@@ -67,3 +55,15 @@ step
 ⇒ visited github ⇒ SSH and GPG kays ⇒ write title or paste this key
 
 - Check github successfully connection ⇒ ssh -T “email”
+
+### Git Remote
+
+- Git clone <repo>
+- git remote
+- git remote add <remote_name>
+- git pull origin <branch>
+- git fetch
+- git push origin <branch>
+- check remote ⇒ git remote
+- git remote -v
+- add new remote origin repoName
