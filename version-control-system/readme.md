@@ -45,3 +45,13 @@ use commend ⇒ git co master
 - git pull origin <branch>
 - git fetch
 - git push origin <branch>
+
+### Git Locally SSH Key setup
+
+step
+
+- first, generate locally SSH key
+
+⇒ use this command ⇒ ssh-keygen -t rsa -b 4096 -c “email”
+
+- Then enter when not generate SSH
