@@ -45,6 +45,9 @@ use commend ⇒ git co master
 - git pull origin <branch>
 - git fetch
 - git push origin <branch>
+- check remote ⇒ git remote
+- git remote -v
+- add new remote origin repoName
 
 ### Git Locally SSH Key setup
 
