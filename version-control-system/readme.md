@@ -14,3 +14,4 @@
 - git status
 - git branch
 - git checkout branch
+- git reset
