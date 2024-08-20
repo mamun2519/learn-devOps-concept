@@ -15,3 +15,4 @@
 - git branch
 - git checkout branch
 - git reset
+- git log
