@@ -97,3 +97,7 @@ What is Forking
 
 - git reset -head <commit>
 - git reset Head - [int]
+
+### Git Reflog
+
+⇒ Git reflog is **an isolated store used to maintain an accurate running history of modifications made to your repository's HEAD pointer**
