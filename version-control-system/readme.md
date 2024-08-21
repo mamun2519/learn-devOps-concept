@@ -86,3 +86,9 @@ What is Forking
 6. Push it back to your repo.
 7. Click the Compare & pull request button.
 8. Click Create pull request to open a new pull request.
+
+### Git Pull Vs Git Rebase
+
+- Git Pull ⇒ Fetch and merge (Creates a new merge commit )
+- git rebase ⇒ it replays your local commits one by one on top of the remote
+- changes ⇒ This can load to a liner commit history without an extra merge commit
