@@ -92,3 +92,8 @@ What is Forking
 - Git Pull ⇒ Fetch and merge (Creates a new merge commit )
 - git rebase ⇒ it replays your local commits one by one on top of the remote
 - changes ⇒ This can load to a liner commit history without an extra merge commit
+
+### Reset a git commit
+
+- git reset -head <commit>
+- git reset Head - [int]
