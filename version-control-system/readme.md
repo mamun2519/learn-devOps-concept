@@ -75,3 +75,14 @@ What is Forking
 ⇒ A fork is **a** new repository that shares code and visibility settings with the original “upstream” repository.
 
 ⇒ Forks are often used to iterate on ideas or changes before they are proposed back to the upstream repository, such as in open source projects or when a user does not have write access to the upstream repository.
+
+### Open A Pull Request
+
+1. Find a project you want to contribute to.
+2. Fork it.
+3. Clone it to your local system.
+4. Make a new branch.
+5. Make your changes.
+6. Push it back to your repo.
+7. Click the Compare & pull request button.
+8. Click Create pull request to open a new pull request.
