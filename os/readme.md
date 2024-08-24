@@ -37,3 +37,8 @@
 - lsblk -f
 - df -Th
 - cat etc/fstab
+
+### XFS VS EXT4
+
+- XFS ⇒ Optimized for large file and volumes, offering superior performance and scalibilty
+- EXT4 ⇒ Performs well across various file sizes but is less efficient with extremely large files.
