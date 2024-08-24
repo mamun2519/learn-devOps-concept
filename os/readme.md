@@ -31,3 +31,9 @@
 - XFS [ubunto, debain, fedora, centOs, redhat]
 - BtrFs (B-tree Fs)
 - Fat
+
+### How To Check Your Linux File System? (Command)
+
+- lsblk -f
+- df -Th
+- cat etc/fstab
