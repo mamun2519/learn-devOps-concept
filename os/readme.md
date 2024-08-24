@@ -53,3 +53,7 @@
 5. /**root**: The home directory for the root user (administered)
 6. /**var**: where variable data such as logs and database are stored.
 7. /**tmp**: Temporary files created by system and users.
+8. /**boot**: Holdes files needed for system boot up, including the Linx kernel, an initial RAM disk image, and bootloader configuration.
+9. /**dev**: this directory contains device files which represent and provide access to hardware devices such as hard drives, sound dives, etc.
+10. /**lib**, /**lib64**: These directories contain essential shared libraries and kernel modules that are needed to boot the file system and run the commands in the root filesystem. the /.lin64 directory exists on systems that support 64-bit applications.
+11. /**media**: This is the mount point for removable media such as USB, Drives, CD_ROms, etc. When these drives are mounted, typically, directly corresponding to their mount points are created within /media
