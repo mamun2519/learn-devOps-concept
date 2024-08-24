@@ -21,3 +21,5 @@
 ⇒ Os store and manage data on disk or partitions using a structure called filesSytem.
 
 ⇒ FileSystem includes files, directories and its related permissions.
+
+![Screenshot from 2024-08-24 22-20-56.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ef9c962e-3b4b-4ceb-adf7-9db20221cb08/ab036ac5-9edc-4d7f-a8df-4087cea2682a/Screenshot_from_2024-08-24_22-20-56.png)
