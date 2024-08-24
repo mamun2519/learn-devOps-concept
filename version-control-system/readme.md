@@ -107,3 +107,7 @@ What is Forking
 ⇒ git cherry-pick is **a powerful command that enables arbitrary Git commits to be picked by reference and appended to the current working HEAD**.
 
 ⇒ git cherry-pick <commit-hash>
+
+### Git Stash
+
+⇒ The git stash command **takes your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from your working copy**
