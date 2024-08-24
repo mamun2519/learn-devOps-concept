@@ -101,3 +101,9 @@ What is Forking
 ### Git Reflog
 
 ⇒ Git reflog is **an isolated store used to maintain an accurate running history of modifications made to your repository's HEAD pointer**
+
+### Git cherry-pick
+
+⇒ git cherry-pick is **a powerful command that enables arbitrary Git commits to be picked by reference and appended to the current working HEAD**.
+
+⇒ git cherry-pick <commit-hash>
