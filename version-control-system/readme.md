@@ -111,3 +111,5 @@ What is Forking
 ### Git Stash
 
 ⇒ The git stash command **takes your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from your working copy**
+
+⇒ command => git Stash and git stash pop
