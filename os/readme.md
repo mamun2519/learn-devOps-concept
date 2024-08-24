@@ -45,4 +45,11 @@
 
 ### FileSystem Structure
 
-1. **/ (root) Directory:** The Linux FilesStyem starts at the root directory, denoted by a single slash (/) form which all other files and directories branch out.
+1. **/ (root) Directory:** The Linux FilesStyem starts at the root directory, denoted by a single slash (/) from which all other files and directories branch out.
+2. /**bin**: Contains essential user binaries (executables), such as common commands like ls, cp , etc
+3. /**etc**: Holder system configuration files.
+   1. **Ex**: User, Network, Services, system APPs
+4. /**home**: contains the personal directories of all users
+5. /**root**: The home directory for the root user (administered)
+6. /**var**: where variable data such as logs and database are stored.
+7. /**tmp**: Temporary files created by system and users.
