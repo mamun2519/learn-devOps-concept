@@ -15,3 +15,9 @@
 - Unix introduced the concept of a multi-user and multi-tasking operating system, allowing multiple users to run multiple users to run multiple processes concurrently.
 - It Provides a hierarchical file system with directory files organized in a tree-like structure.
 - Unix systems have a command line interface (CLI) that allows users to interact with the system using text base commands.
+
+### Linux file system
+
+⇒ Os store and manage data on disk or partitions using a structure called filesSytem.
+
+⇒ FileSystem includes files, directories and its related permissions.
