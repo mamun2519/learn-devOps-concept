@@ -58,7 +58,7 @@
 10. /**lib**, /**lib64**: These directories contain essential shared libraries and kernel modules that are needed to boot the file system and run the commands in the root filesystem. the /.lin64 directory exists on systems that support 64-bit applications.
 11. /**media**: This is the mount point for removable media such as USB, Drives, CD_ROms, etc. When these drives are mounted, typically, directly corresponding to their mount points are created within /media
 
-**Files Directories Create Update**
+### Files Directories Create Update
 
 - **Directory Command**
   - **create directory** ⇒ mkdir fileName
