@@ -68,3 +68,6 @@
 - **file content see** ⇒ cat fileName
 - **file top content see** ⇒ head fileName
 - **file button content see** ⇒ tail fileName
+- **file delete** ⇒ rm fileName
+- f**ile copy** ⇒ cp copyFil Name PasteFileName
+- f**ile rename** ⇒ mv fileName reNameFileName
