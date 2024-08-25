@@ -76,3 +76,12 @@
   - **file delete** ⇒ rm fileName
   - f**ile copy** ⇒ cp copyFil Name PasteFileName
   - f**ile rename** ⇒ mv fileName reNameFileName
+
+### Soft Link
+
+⇒ **a special type of file that serves as a reference to another file or directory**
+
+⇒ One File crate multiple references. if change main file then change automatic all file
+
+- command ⇒ ln -s directoryName reference directoryName
+  - EX: ln -s ../name.txt newname.txt
