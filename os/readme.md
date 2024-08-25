@@ -96,3 +96,17 @@ note: if you delete the soft link file then delete all reference files automatic
 - file i node see command ⇒ ls i fileName
 
 note: if you delete the hard link file then do not delete all reference files automatically.
+
+### **Linux Distrory and System Information**
+
+⇒ “uname” - returns system information about the current system in UNIX-Like Os.
+
+⇒ in linux OS, “/etc/os-realse” contains information about the Os distro on the linux system.
+
+⇒ to retrieve the distribution name and version, we can use the following commands,
+
+- $ grep -oP ‘
+- uname -v
+- uname -p
+
+![Screenshot from 2024-08-25 22-04-57.png](https://i.ibb.co/cXqC6kb/Screenshot-from-2024-08-25-22-04-57.png)
