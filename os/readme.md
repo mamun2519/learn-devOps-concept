@@ -61,3 +61,5 @@
 **Files Directories Create Update**
 
 - create directory ⇒ mkdir fileName
+- change directory ⇒ cd
+- create file ⇒ touch fileName
