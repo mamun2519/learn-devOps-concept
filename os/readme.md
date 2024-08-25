@@ -60,14 +60,19 @@
 
 **Files Directories Create Update**
 
-- **create directory** ⇒ mkdir fileName
-- **change directory** ⇒ cd
-- **create fil**e ⇒ touch fileName
-- **another way to create file** ⇒ vim fileName
-- **another standard way crate file** ⇒ echo “writing file” >> fileName
-- **file content see** ⇒ cat fileName
-- **file top content see** ⇒ head fileName
-- **file button content see** ⇒ tail fileName
-- **file delete** ⇒ rm fileName
-- f**ile copy** ⇒ cp copyFil Name PasteFileName
-- f**ile rename** ⇒ mv fileName reNameFileName
+- **Directory Command**
+  - **create directory** ⇒ mkdir fileName
+  - **change directory** ⇒ cd
+  - **remove file directory** ⇒ rm -r derectoryName
+  - **rename directory** ⇒ mv directoyName reName
+  - **copy director**y ⇒ cp -r copyfileName pastFileName
+- **File Command**
+  - **create fil**e ⇒ touch fileName
+  - **another way to create file** ⇒ vim fileName
+  - **another standard way crate file** ⇒ echo “writing file” >> fileName
+  - **file content see** ⇒ cat fileName
+  - **file top content see** ⇒ head fileName
+  - **file button content see** ⇒ tail fileName
+  - **file delete** ⇒ rm fileName
+  - f**ile copy** ⇒ cp copyFil Name PasteFileName
+  - f**ile rename** ⇒ mv fileName reNameFileName
