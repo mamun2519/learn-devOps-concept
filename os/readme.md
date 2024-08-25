@@ -85,3 +85,14 @@
 
 - command ⇒ ln -s directoryName reference directoryName
   - EX: ln -s ../name.txt newname.txt
+
+note: if you delete the soft link file then delete all reference files automatically.
+
+### Hard Link
+
+⇒ A Hard link is **a powerful feature of the Linux file system that can be used to create multiple references to a single file**.
+
+- command ⇒ ln ../hardLinkFileName NewFileName
+- file i node see command ⇒ ls i fileName
+
+note: if you delete the hard link file then do not delete all reference files automatically.
