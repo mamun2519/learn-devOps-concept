@@ -92,6 +92,7 @@ EX: cat dayOne/myInfo ⇒ ln -s dayOne/myInfo myAddress
 
 ### Soft Link
 
+⇒ Link will be removed if original file is deleted or remove
 ⇒ **a special type of file that serves as a reference to another file or directory**
 
 ⇒ One File crate multiple references. if change main file then change automatic all file
