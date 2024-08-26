@@ -69,6 +69,7 @@
 - **File Command**
   - **create fil**e ⇒ touch fileName
   - **another way to create file** ⇒ vim fileName
+  - **vim save file** => :wq
   - **another standard way crate file** ⇒ echo “writing file” >> fileName
   - **file content see** ⇒ cat fileName
   - **file top content see** ⇒ head fileName
