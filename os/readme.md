@@ -100,7 +100,7 @@ EX: cat dayOne/myInfo ⇒ ln -s dayOne/myInfo myAddress
 - command ⇒ ln -s directoryName reference directoryName
   - EX: ln -s ../name.txt newname.txt
 
-note: if you delete the soft link file then delete all reference files automatically.
+note: if you delete the original file, then delete all reference/links files automatically.
 
 ### Hard Link
 
