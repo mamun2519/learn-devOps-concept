@@ -83,6 +83,7 @@
 ⇒ A connection between a file name and actual data on the disk.
 
 ⇒ we can call it a shortcut.
+EX: cat dayOne/myInfo ⇒ ln -s dayOne/myInfo myAddress
 
 ### Soft Link
 
