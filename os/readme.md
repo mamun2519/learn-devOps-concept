@@ -85,6 +85,11 @@
 ⇒ we can call it a shortcut.
 EX: cat dayOne/myInfo ⇒ ln -s dayOne/myInfo myAddress
 
+### Types of link
+
+- Hard Link
+- Soft Link
+
 ### Soft Link
 
 ⇒ **a special type of file that serves as a reference to another file or directory**
