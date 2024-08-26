@@ -78,6 +78,12 @@
   - f**ile copy** ⇒ cp copyFil Name PasteFileName
   - f**ile rename** ⇒ mv fileName reNameFileName
 
+### What are links?
+
+⇒ A connection between a file name and actual data on the disk.
+
+⇒ we can call it a shortcut.
+
 ### Soft Link
 
 ⇒ **a special type of file that serves as a reference to another file or directory**
