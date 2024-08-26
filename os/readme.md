@@ -105,6 +105,7 @@ note: if you delete the original file, then delete all reference/links files aut
 ### Hard Link
 
 ⇒ A Hard link is **a powerful feature of the Linux file system that can be used to create multiple references to a single file**.
+⇒ Deleting, renaming, or removing the original file will not effect the link.
 
 - command ⇒ ln ../hardLinkFileName NewFileName
 - file i node see command ⇒ ls i fileName
