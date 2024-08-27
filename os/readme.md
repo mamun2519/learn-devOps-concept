@@ -163,7 +163,7 @@ note: if you delete the hard link file then do not delete all reference files au
 
 - Delete a user account.
 - **Usage**: sudo userdel [option] username
-  Note: check all users ⇒ cat /etc/passwd
+- Note: check all users ⇒ cat /etc/passwd
 
 ### **Linux Basic Commands (Group)**
 
@@ -181,7 +181,7 @@ note: if you delete the hard link file then do not delete all reference files au
 
 - Delete a grup
 - **usage** ⇒ sudo groupdel groupname
-  Note: Check Group command ⇒ cat etc/group
+- Note: Check Group command ⇒ cat etc/group
 
 ### **Linux File Permission (ownerShip $ Permission)**
 
@@ -195,4 +195,4 @@ note: if you delete the hard link file then do not delete all reference files au
 - Modifies file and directory permissions.
 - Uses a numeric or symbol mode to specific permission.
 - example ⇒ chmod [option] [permissions] [file(s)/directory]
-  Note: check file permission ⇒ ls -l fileName
+- Note: check file permission ⇒ ls -l fileName
