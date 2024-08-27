@@ -125,3 +125,12 @@ note: if you delete the hard link file then do not delete all reference files au
 - uname -p
 
 ![Screenshot from 2024-08-25 22-04-57.png](https://i.ibb.co/cXqC6kb/Screenshot-from-2024-08-25-22-04-57.png)
+
+### **Environment Variable**
+
+⇒ In the Linux operating system, environment variables are **essential components that enable users to store and access information across various processes and user sessions**.
+
+- command
+  - see all global env variable ⇒ env
+  - investment variable pint ⇒ echo $variableName
+  - set env variable ⇒ export Myname=Mamun
