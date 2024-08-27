@@ -176,8 +176,8 @@ note: if you delete the hard link file then do not delete all reference files au
 
 - Modifies group properties, such as the group name.
 - **usage** ⇒ sudo groupmd [option] groupname
-
-**groupdel**:
+  -s
+  **groupdel**:
 
 - Delete a grup
 - **usage** ⇒ sudo groupdel groupname
