@@ -134,3 +134,32 @@ note: if you delete the hard link file then do not delete all reference files au
   - see all global env variable ⇒ env
   - investment variable pint ⇒ echo $variableName
   - set env variable ⇒ export Myname=Mamun
+  - set global env variable ⇒ nano -/.bashrc
+  - reload shall ⇒ source -/.bashrc
+
+### **Linux Basic Commands (user)**
+
+**UserAdd:**
+
+- create a new user account
+- **usage ⇒** sudo useradd [option] username
+
+**addUser**
+
+- a higher-level utility for creating user accounts with interactive promts.
+- **usage** ⇒ sudo adduser username
+
+**usermod**:
+
+- Modifies user account properties, such as username, home directory, or group membership.
+- **usage** ⇒ sudo usermod [option] username
+
+**password**:
+
+- Allows users to change their password.
+- **usage** ⇒ passed [username] (for the current user) or sudo passed [userName] (for another user)
+
+**userdel**:
+
+- Delete a user account.
+- **Usage**: sudo userdel [option] username
