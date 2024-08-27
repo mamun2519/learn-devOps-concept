@@ -200,6 +200,11 @@ note: if you delete the hard link file then do not delete all reference files au
 ### **Linux Package manager**
 
 - **APT (Advanced Package Tool):** Debian, Ubuntu, and their derivatives.
+  - **Install Package** ⇒ sudo apt install packgeName
+  - **Remove Package** ⇒ sudo apt remove packageName
+  - **Search package** ⇒ apt search packageName
+  - apt —help
 - **DPKG:** Debian and Ubuntu.
+  - **Install Package** ⇒ sudo dpkg -i packgeName
 - **RPM:** (Red Hat Package manager): Red Hat Enterprise Linux (RHEL), CentOS, Fedora, and their derivatives.
 - **Pacman:** Arch Linex and its derivatives.
