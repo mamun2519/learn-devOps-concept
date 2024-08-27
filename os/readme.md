@@ -164,3 +164,20 @@ note: if you delete the hard link file then do not delete all reference files au
 - Delete a user account.
 - **Usage**: sudo userdel [option] username
 - check all users ⇒ cat /etc/passwd
+
+### **Linux Basic Commands (Group)**
+
+**groupadd**:
+
+- creates a new group.
+- **usage** ⇒ sudo groupadd [option] groupname
+
+**groupmod**:
+
+- Modifies group properties, such as the group name.
+- **usage** ⇒ sudo groupmd [option] groupname
+
+**groupdel**:
+
+- Delete a grup
+- **usage** ⇒ sudo groupdel groupname
