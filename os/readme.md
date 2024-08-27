@@ -196,3 +196,10 @@ note: if you delete the hard link file then do not delete all reference files au
 - Uses a numeric or symbol mode to specific permission.
 - example ⇒ chmod [option] [permissions] [file(s)/directory]
 - Note: check file permission ⇒ ls -l fileName
+
+### **Linux Package manager**
+
+- **APT (Advanced Package Tool):** Debian, Ubuntu, and their derivatives.
+- **DPKG:** Debian and Ubuntu.
+- **RPM:** (Red Hat Package manager): Red Hat Enterprise Linux (RHEL), CentOS, Fedora, and their derivatives.
+- **Pacman:** Arch Linex and its derivatives.
