@@ -195,3 +195,4 @@ note: if you delete the hard link file then do not delete all reference files au
 - Modifies file and directory permissions.
 - Uses a numeric or symbol mode to specific permission.
 - example ⇒ chmod [option] [permissions] [file(s)/directory]
+  Note: check file permission ⇒ ls -l fileName
