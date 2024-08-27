@@ -163,3 +163,4 @@ note: if you delete the hard link file then do not delete all reference files au
 
 - Delete a user account.
 - **Usage**: sudo userdel [option] username
+- check all users ⇒ cat /etc/passwd
