@@ -186,7 +186,9 @@ note: if you delete the hard link file then do not delete all reference files au
 **usermod**:
 
 - Modifies user account properties, such as username, home directory, or group membership.
-- **usage** ⇒ sudo usermod [option] username
+  - **usage** ⇒ sudo usermod [option] username
+  - modify group or name ⇒ usermod -G <group_name> <user_name>
+  - to change the default group ⇒ usermod -g <group_name> <user_name>
 
 **password**:
 
@@ -197,8 +199,8 @@ note: if you delete the hard link file then do not delete all reference files au
 
 - Delete a user account.
   - **Usage**: sudo userdel username
-  - **will remove the home directory** ⇒ userdel -r
-  - **force delete even if the user is logged in** ⇒ userdel -f
+  - **will remove the home directory** ⇒ userdel -r username
+  - **force delete even if the user is logged in** ⇒ userdel -f username
 - Note: check all users ⇒ cat /etc/passwd
 
 ### **Linux Basic Commands (Group)**
