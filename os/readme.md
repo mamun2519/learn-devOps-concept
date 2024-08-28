@@ -162,6 +162,12 @@ note: if you delete the hard link file then do not delete all reference files au
   - export VAR_Name=VaLUE
 - Set the Env variable permanently for a user.
   - Edit -/.profile (ubuntu)
+  - then apply the current shell ⇒ source -/.bash_profile
+- Set the Env variable permanent for all users
+  - Edit /etc/profile
+  - And Set variables
+    - export MYVAR=Value
+    - source /etc/profile
 
 ### **Linux Basic Commands (user)**
 
