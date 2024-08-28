@@ -154,8 +154,14 @@ note: if you delete the hard link file then do not delete all reference files au
   - local Variables ⇒ its available only shell
 
 - How To create local user defined variables that are visible within your shell process.
+
   - MY_VAR=Hello
   - echo $MY_VAR
+
+- f the local variable is set to main env use this command
+  - export VAR_Name=VaLUE
+- Set the Env variable permanently for a user.
+  - Edit -/.profile (ubuntu)
 
 ### **Linux Basic Commands (user)**
 
