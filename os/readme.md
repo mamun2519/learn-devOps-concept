@@ -174,7 +174,9 @@ note: if you delete the hard link file then do not delete all reference files au
 **UserAdd:**
 
 - create a new user account
-- **usage ⇒** sudo useradd [option] username
+  - **usage ⇒** sudo useradd username
+  - **check more info** ⇒ id username
+  - **usage option** ⇒ sudo useradd -g <group_name> -s /bin/bash -c “description” -m -d /home/<user_name> <user_name>
 
 **addUser**
 
