@@ -130,6 +130,9 @@ note: if you delete the hard link file then do not delete all reference files au
 
 ⇒ In the Linux operating system, environment variables are **essential components that enable users to store and access information across various processes and user sessions**.
 ⇒ Allows you to store data in memory that can be easily accessed by any program or script running form the shell.
+⇒ Store information about the sell session and the working environment.
+
+⇒ ex: VAR_NAME=VALUE
 
 - command
   - see all global env variable ⇒ env
