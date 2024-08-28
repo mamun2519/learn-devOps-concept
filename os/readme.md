@@ -146,6 +146,12 @@ note: if you delete the hard link file then do not delete all reference files au
   - set env variable ⇒ export Myname=Mamun
   - set global env variable ⇒ nano - /.bashrc
   - reload shall ⇒ source -/.bashrc
+- There are two environment variable types in the bash shell.
+  - Global variables
+  - local Variables
+- How To create local user defined variables that are visible within your shell process.
+  - MY_VAR=Hello
+  - echo $MY_VAR
 
 ### **Linux Basic Commands (user)**
 
