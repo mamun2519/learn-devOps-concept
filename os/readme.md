@@ -169,7 +169,7 @@ note: if you delete the hard link file then do not delete all reference files au
     - export MYVAR=Value
     - source /etc/profile
 
-### **Linux Basic Commands (user)**
+### **User Account Management**
 
 **UserAdd:**
 
@@ -196,7 +196,9 @@ note: if you delete the hard link file then do not delete all reference files au
 **userdel**:
 
 - Delete a user account.
-- **Usage**: sudo userdel [option] username
+  - **Usage**: sudo userdel username
+  - **will remove the home directory** ⇒ userdel -r
+  - **force delete even if the user is logged in** ⇒ userdel -f
 - Note: check all users ⇒ cat /etc/passwd
 
 ### **Linux Basic Commands (Group)**
