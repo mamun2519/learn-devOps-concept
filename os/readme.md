@@ -215,6 +215,12 @@ note: if you delete the hard link file then do not delete all reference files au
 - **usage** ⇒ sudo groupdel groupname
 - Note: Check Group command ⇒ cat etc/group
 
+**All Important files**
+
+- /etc/passwrd
+- etc/group
+- /etc/shadow
+
 ### **Linux File Permission (ownerShip $ Permission)**
 
 **chown**:
