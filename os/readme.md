@@ -141,14 +141,18 @@ note: if you delete the hard link file then do not delete all reference files au
   - How do we see a specific ENV variable?
     - printenv Home
     - echo $Home
+  - Delete Env Varible
+    - unset VariableName
   - see all global env variable ⇒ env
   - investment variable pint ⇒ echo $variableName
   - set env variable ⇒ export Myname=Mamun
   - set global env variable ⇒ nano - /.bashrc
   - reload shall ⇒ source -/.bashrc
 - There are two environment variable types in the bash shell.
+
   - Global variables
-  - local Variables
+  - local Variables ⇒ its available only shell
+
 - How To create local user defined variables that are visible within your shell process.
   - MY_VAR=Hello
   - echo $MY_VAR
