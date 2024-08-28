@@ -135,10 +135,16 @@ note: if you delete the hard link file then do not delete all reference files au
 ⇒ ex: VAR_NAME=VALUE
 
 - command
+  - How To See the Existing env variable?
+    - Command ⇒ printenv
+    - env
+  - How do we see a specific ENV variable?
+    - printenv Home
+    - echo $Home
   - see all global env variable ⇒ env
   - investment variable pint ⇒ echo $variableName
   - set env variable ⇒ export Myname=Mamun
-  - set global env variable ⇒ nano -/.bashrc
+  - set global env variable ⇒ nano - /.bashrc
   - reload shall ⇒ source -/.bashrc
 
 ### **Linux Basic Commands (user)**
