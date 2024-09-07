@@ -249,13 +249,17 @@ note: if you delete the hard link file then do not delete all reference files au
   - r— Other permissions
 
 - How do you modify the permissions of a file?
+
   - #chmod a+rwx file.text
     - u mean user
     - g mean gorup
     - o mean other
     - a mean all
 
-**chmod**:
+- Recursively updates the file permissions
+
+  - command chmod -R u+x myDir
+    **chmod**:
 
 - Modifies file and directory permissions.
 - Uses a numeric or symbol mode to specific permission.
