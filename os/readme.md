@@ -235,6 +235,12 @@ note: if you delete the hard link file then do not delete all reference files au
 - changes the owner of a file directory
 - example ⇒ sudo chown newowner:gorupName fileName
 
+- **Each permission set can contain four basic representations:**
+  - **“r”** means that the file is **readable.**
+  - **“w”** means that the file is **writable.**
+  - **“x”** means that the file is **executable.** (you can run it as a program)
+  - **“-”** means **“nothing”.** (more specifically, the permission for that slot in the set has not been granted).
+
 **chmod**:
 
 - Modifies file and directory permissions.
