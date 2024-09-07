@@ -229,7 +229,8 @@ note: if you delete the hard link file then do not delete all reference files au
 
 ### **Linux File Permission (ownerShip $ Permission)**
 
-**chown**:
+- How to check permission for a file? - command ⇒ #ls -ltr
+  **chown**:
 
 - changes the owner of a file directory
 - example ⇒ sudo chown newowner:gorupName fileName
