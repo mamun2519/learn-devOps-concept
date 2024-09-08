@@ -280,9 +280,15 @@ note: if you delete the hard link file then do not delete all reference files au
 
 ### **Linux Basic commands – Text processing**
 
-- uniq
+- **uniq**
   - Purpose: remove or display duplicate lines in a file.
-  - command ⇒ uniq <fileName>
-- cut
+  - command ⇒ **uniq <fileName>**
+- **cut**
   - Purpose: Extract specific columns and fields from the line of texts.
-  - command ⇒ extract only the usernames form “/etc/passwd” $cut -d: -f 1 /etc/password
+  - command ⇒ extract only the usernames form **“/etc/passwd” $cut -d: -f 1 /etc/password**
+- **diff**
+  - Purpose: Compare and find differences between files
+  - command ⇒ **$ diff file1 file2**
+- **grep**
+  - Purpose: A powerful versatile text-processing and regular expression tool.
+  - command ⇒ to find all lines containing the word “error” in the system log file $ grep “error” /var/log/syslog
