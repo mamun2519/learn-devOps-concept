@@ -316,3 +316,10 @@ Piping in Linux is the process of taking the output (usually text) of one comman
 
 - $ command1 | command2
 - example ⇒ echo -e “apple/file” sort > text.text
+
+### SSH
+
+SSH (Secure Shell) is a network protocol that provides secure access to remote systems over an unsecured network.
+
+- SSH uses public-key cryptography to authenticate users and establish secure connections.
+- example ⇒ ssh username#hostname_or_IP
