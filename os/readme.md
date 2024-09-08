@@ -300,3 +300,12 @@ note: if you delete the hard link file then do not delete all reference files au
 - sed
   - Purpose: Its allows us to manipulate and transform text data using regular expressions and pattern matching.
   - command ⇒ sed -i “s/john deo/
+
+### **Linux Process**
+
+- pstree
+  - Purpose: To display processes in a tree view.
+  - command ⇒ pstree
+- top
+  - Purpose: To continuously monitor and list processes in real-time.
+  - command ⇒ $ top
