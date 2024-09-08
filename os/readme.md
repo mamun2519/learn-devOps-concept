@@ -292,3 +292,5 @@ note: if you delete the hard link file then do not delete all reference files au
 - **grep**
   - Purpose: A powerful versatile text-processing and regular expression tool.
   - command ⇒ to find all lines containing the word “error” in the system log file $ grep “error” /var/log/syslog
+- **awk**
+  - Purpose: “Another versatile text-processing tool
