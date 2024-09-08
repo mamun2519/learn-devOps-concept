@@ -308,4 +308,11 @@ note: if you delete the hard link file then do not delete all reference files au
   - command ⇒ pstree
 - top
   - Purpose: To continuously monitor and list processes in real-time.
-  - command ⇒ $ top
+  - command ⇒ $ htop
+
+### Linux Pipe
+
+Piping in Linux is the process of taking the output (usually text) of one command and using it as the input for another command
+
+- $ command1 | command2
+- example ⇒ echo -e “apple/file” sort > text.text
