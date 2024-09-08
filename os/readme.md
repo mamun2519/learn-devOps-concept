@@ -277,3 +277,12 @@ note: if you delete the hard link file then do not delete all reference files au
   - **Install Package** ⇒ sudo dpkg -i packgeName
 - **RPM:** (Red Hat Package manager): Red Hat Enterprise Linux (RHEL), CentOS, Fedora, and their derivatives.
 - **Pacman:** Arch Linex and its derivatives.
+
+### **Linux Basic commands – Text processing**
+
+- uniq
+  - Purpose: remove or display duplicate lines in a file.
+  - command ⇒ uniq <fileName>
+- cut
+  - Purpose: Extract specific columns and fields from the line of texts.
+  - command ⇒ extract only the usernames form “/etc/passwd” $cut -d: -f 1 /etc/password
