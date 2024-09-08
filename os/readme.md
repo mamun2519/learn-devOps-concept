@@ -323,3 +323,9 @@ SSH (Secure Shell) is a network protocol that provides secure access to remote s
 
 - SSH uses public-key cryptography to authenticate users and establish secure connections.
 - example ⇒ ssh username#hostname_or_IP
+
+### **Systemctl**
+
+systemctl is a command-line utility and service manager used in modern Linux distribution that adheres to the system init system.
+
+- systemctl is used to manage system services, examine service status, enable or disable services at boot, and perform another system-relatated task
