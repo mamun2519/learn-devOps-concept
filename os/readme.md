@@ -306,6 +306,8 @@ note: if you delete the hard link file then do not delete all reference files au
 
 - text-specific column print
   - awk ‘{print $2 (2 means column name)}’ fileName
+- Last Column print
+  - awk ‘{print $NF} fileName
 
 ### **Linux Process**
 
