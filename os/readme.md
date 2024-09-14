@@ -308,6 +308,8 @@ note: if you delete the hard link file then do not delete all reference files au
   - awk ‘{print $2 (2 means column name)}’ fileName
 - Last Column print
   - awk ‘{print $NF} fileName
+- every line added to serial number
+  - awk ‘{print NR $0}’ fileName ⇒ NR means serial number or $0 means file text print
 
 ### **Linux Process**
 
