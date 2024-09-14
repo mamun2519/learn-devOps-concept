@@ -332,6 +332,10 @@ note: if you delete the hard link file then do not delete all reference files au
 
 Piping in Linux is the process of taking the output (usually text) of one command and using it as the input for another command
 
+⇒ Pipes are used to redirect a stream from one program to another program.
+
+⇒ the output of one command redirects it to the input of another.
+
 - $ command1 | command2
 - example ⇒ echo -e “apple/file” sort > text.text
 
