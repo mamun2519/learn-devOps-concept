@@ -336,8 +336,11 @@ Piping in Linux is the process of taking the output (usually text) of one comman
 
 ⇒ the output of one command redirects it to the input of another.
 
-- $ command1 | command2
-- example ⇒ echo -e “apple/file” sort > text.text
+- Pipe syntax
+
+⇒ we use the “|” symbol to separate two commands. the output of the first command passed /redirected to the second command
+
+⇒ command ⇒ # command1 | command2
 
 ### SSH
 
