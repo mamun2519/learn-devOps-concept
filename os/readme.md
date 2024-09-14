@@ -310,6 +310,8 @@ note: if you delete the hard link file then do not delete all reference files au
   - awk ‘{print $NF} fileName
 - every line added to serial number
   - awk ‘{print NR $0}’ fileName ⇒ NR means serial number or $0 means file text print
+- CSV file email searching
+  - awk -F “{print $4}’ fileName
 
 ### **Linux Process**
 
