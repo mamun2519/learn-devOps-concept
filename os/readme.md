@@ -372,6 +372,14 @@ Piping in Linux is the process of taking the output (usually text) of one comman
 
 ⇒ find [options] [path…] [expression]
 => basic example => find /path/ -name fileName
+**Some Case**
+
+- How to search a file based on its size.
+  - command find /path/ -size 50M
+    - M for MB
+    - k for KB
+    - G for GB
+    - c for bytes
 
 ### SSH
 
