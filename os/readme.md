@@ -354,6 +354,13 @@ Piping in Linux is the process of taking the output (usually text) of one comman
 
 ⇒ grep [option].. pattern [file]..
 
+**Some Case**
+
+- to ignore the upper and lower case while searching
+  - grep -i “keyword” fileName
+- To search everything except the given pattern/keyword
+  - grep -v “keyword” file
+
 ### SSH
 
 SSH (Secure Shell) is a network protocol that provides secure access to remote systems over an unsecured network.
