@@ -380,6 +380,13 @@ Piping in Linux is the process of taking the output (usually text) of one comman
     - k for KB
     - G for GB
     - c for bytes
+- how to find only a file or only a directory in a given path?
+  - find /path/ -type f
+    - f for file
+    - d for direcory
+    - l for symbolic link
+    - b for block device
+    - s for socket
 
 ### SSH
 
