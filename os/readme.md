@@ -350,6 +350,9 @@ Piping in Linux is the process of taking the output (usually text) of one comman
 
 ⇒ it checks line by line and prints lines matching given pattern.
 ⇒ We can use grep anywhere like with files, searching for files, directories etc.
+**Grep command syntax**
+
+⇒ grep [option].. pattern [file]..
 
 ### SSH
 
