@@ -342,6 +342,14 @@ Piping in Linux is the process of taking the output (usually text) of one comman
 
 ⇒ command ⇒ # command1 | command2
 
+### Linux GREP Command
+
+⇒ It means “Global regular expression print”
+
+⇒ Grep command searches for a particular string/keyword from a file and prints lines matching a pattern.
+
+⇒ it checks line by line and prints lines matching given pattern.
+
 ### SSH
 
 SSH (Secure Shell) is a network protocol that provides secure access to remote systems over an unsecured network.
