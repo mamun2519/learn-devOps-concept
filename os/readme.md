@@ -362,6 +362,8 @@ Piping in Linux is the process of taking the output (usually text) of one comman
   - grep -v “keyword” file
 - to print how many times (count) the given keyword is present in the file
   - grep -c “keyword” file
+- To search for an exact match of a given keyword in a file
+  - grep -w “keyword” file
 
 ### SSH
 
