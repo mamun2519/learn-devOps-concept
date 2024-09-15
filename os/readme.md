@@ -368,6 +368,10 @@ Piping in Linux is the process of taking the output (usually text) of one comman
 ### Linux find command
 
 ⇒ Find command search a for files in the directory hierarchy.
+**find command syntax**
+
+⇒ find [options] [path…] [expression]
+=> basic example => find /path/ -name fileName
 
 ### SSH
 
