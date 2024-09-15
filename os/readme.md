@@ -365,6 +365,10 @@ Piping in Linux is the process of taking the output (usually text) of one comman
 - To search for an exact match of a given keyword in a file
   - grep -w “keyword” file
 
+### Linux find command
+
+⇒ Find command search a for files in the directory hierarchy.
+
 ### SSH
 
 SSH (Secure Shell) is a network protocol that provides secure access to remote systems over an unsecured network.
