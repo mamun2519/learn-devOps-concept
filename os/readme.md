@@ -399,4 +399,4 @@ SSH (Secure Shell) is a network protocol that provides secure access to remote s
 
 systemctl is a command-line utility and service manager used in modern Linux distribution that adheres to the system init system.
 
-- systemctl is used to manage system services, examine service status, enable or disable services at boot, and perform another system-relatated task
+- systemctl is used to manage system services, examine service status, enable or disable services at boot, and perform another system-relatated task.
