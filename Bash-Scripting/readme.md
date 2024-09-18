@@ -27,3 +27,7 @@ name="Mohammad Mamun"
 echo "My Name Is ${name}"
 ~
 ```
+
+- use this variable I doller sing or curlibracket
+
+Note: Do not spach in the variable name
