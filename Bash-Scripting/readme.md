@@ -28,6 +28,6 @@ echo "My Name Is ${name}"
 ~
 ```
 
-- use this variable I doller sing or curlibracket
+- use this variable I $ sing or use this variable I doller sing or curly bracket
 
-Note: Do not spach in the variable name
+Note: Do not space in the variable name
