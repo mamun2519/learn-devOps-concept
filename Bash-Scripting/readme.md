@@ -31,3 +31,27 @@ echo "My Name Is ${name}"
 - use this variable I $ sing or use this variable I doller sing or curly bracket
 
 Note: Do not space in the variable name
+
+### Variable Expansion
+
+```jsx
+#!/usr/bin/bash
+name="Mohammad Mamun"
+
+echo "My Name Is ${name}"
+
+address="Chittagong"
+
+echo "My Address is ${address}"
+
+echo "My Job Is ${job:-Full Stack developer}"
+
+userName=mamun2519
+
+echo "My Username is ${userName:0:5}"
+```
+
+- When we do not set a variable in the bash file. bash-script set by default null/undefined
+- echo "My Username is **${userName:0:5}"** this means userName showing 0 to 5 index
+
+Note: echo means kind of console.log
