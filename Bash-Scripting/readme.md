@@ -49,6 +49,9 @@ echo "My Job Is ${job:-Full Stack developer}"
 userName=mamun2519
 
 echo "My Username is ${userName:0:5}"
+
+# replace variable value
+echo "My updated name is ${name/Mohammad/Md}"
 ```
 
 - When we do not set a variable in the bash file. bash-script set by default null/undefined
