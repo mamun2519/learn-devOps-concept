@@ -12,3 +12,8 @@
 #!/usr/bin/bash //* run path
 eco "Hello World"
 ```
+
+**Note:** When Not running this script that means this file is not an executable file.
+
+- first, check file info ⇒ ls -l DevOps.sh
+- then allow permission executable ⇒ cmod +x .devops.sh
