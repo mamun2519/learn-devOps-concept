@@ -17,3 +17,13 @@ eco "Hello World"
 
 - first, check file info ⇒ ls -l DevOps.sh
 - then allow permission executable ⇒ cmod +x .devops.sh
+
+### Variables In bash
+
+```jsx
+#!usr/bin/bash
+name="Mohammad Mamun"
+
+echo "My Name Is ${name}"
+~
+```
