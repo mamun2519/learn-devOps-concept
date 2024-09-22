@@ -81,3 +81,37 @@ age=$2
 
 echo "my name is ${name} or ${age}"
 ```
+
+### Conditional Statement intro
+
+⇒ programming language we use if else. The bash script is almost the same.
+
+```jsx
+#!/usr/bin/bash
+
+//if else
+read -p "Enter your age" age
+
+if[ $age == 2 ]; then
+			echo ""
+else ;
+		echo "
+
+fi
+
+// else if
+
+read -p "Enter your age" age
+
+if[ $age == 2 ]; then
+			echo " Your is small"
+elif [ $age == 5 ] ;
+		echo  "you are big"
+
+else
+	echo "Your are not human"
+
+fi
+```
+
+Note: fi use for condition closed
