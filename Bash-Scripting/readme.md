@@ -61,7 +61,9 @@ Note: echo means kind of console.log
 
 ### User input and arguments
 
-- we can receive user input using **read** keyword
+- we can receive user input using the **read** keyword
+- use -p for run-time message
+- user -sp for hide message
 
 ```jsx
 #!/usr/bin/bash
