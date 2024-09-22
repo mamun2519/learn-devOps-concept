@@ -70,3 +70,14 @@ Note: echo means kind of console.log
 read -p "Enter Your Name" name
 echo "My Name is : ${name}"
 ```
+
+- serial indexing for argument
+
+```jsx
+echo $0
+
+name=$1
+age=$2
+
+echo "my name is ${name} or ${age}"
+```
