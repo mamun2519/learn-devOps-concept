@@ -65,6 +65,6 @@ Note: echo means kind of console.log
 
 ```jsx
 #!/usr/bin/bash
-read name
+read -p "Enter Your Name" name
 echo "My Name is : ${name}"
 ```
