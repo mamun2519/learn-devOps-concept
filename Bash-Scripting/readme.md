@@ -58,3 +58,13 @@ echo "My updated name is ${name/Mohammad/Md}"
 - echo "My Username is **${userName:0:5}"** this means userName showing 0 to 5 index
 
 Note: echo means kind of console.log
+
+### User input and arguments
+
+- we can receive user input using **read** keyword
+
+```jsx
+#!/usr/bin/bash
+read name
+echo "My Name is : ${name}"
+```
