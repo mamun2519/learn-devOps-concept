@@ -157,3 +157,18 @@ esac
 ### Subshell
 
 ⇒ Subshells are **separate instances of the command process, run as a new process, and defined within your scripts using ()** . Because a subshell is run in a new process, these can be used for parallel processing (although we will not cover that here).
+
+```jsx
+#!/usr/bin/bash
+(
+cd devops-carerpath
+pwd
+ls
+)
+
+echo "==================================="
+echo "==================================="
+echo "==================================="
+ls
+pwd
+```
