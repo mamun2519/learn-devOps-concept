@@ -194,3 +194,17 @@ done
 ```
 
 note: bydefult retune first element. if you need to get all elements use ${names[@]}
+
+### Array Manipulation
+
+```jsx
+#!/usr/bin/bash
+names = ("Apple", "Mango")
+
+//* Get Array length
+echo ${#names[0]} // Use just # keyword
+
+//* Assign dymainc value
+names[${#names[@]}]="banena"
+echo ${#names[0]}
+```
