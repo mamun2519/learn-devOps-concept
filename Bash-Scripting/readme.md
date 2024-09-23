@@ -210,4 +210,8 @@ echo ${#names[0]}
 //* set value array in middle
 names("${names[@]:0:1}" "AWS")
 echo ${names[@])
+
+//* remove array element
+unset names[1]
+echo ${names[@])
 ```
