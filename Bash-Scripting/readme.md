@@ -115,3 +115,16 @@ fi
 ```
 
 Note: fi use for condition closed
+
+### Conditional statements using regex
+
+```jsx
+#!/usr/bin/bash
+
+if [[ $file == ./log$ ]]; then
+	echo "This is a valid log file
+else
+	echo "This is a invalid log file"
+
+fi
+```
