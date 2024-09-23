@@ -215,3 +215,16 @@ echo ${names[@])
 unset names[1]
 echo ${names[@])
 ```
+
+### Logical Operators
+
+command operators
+
+- && - AND
+- || -OR
+- !
+
+```jsx
+#!/usr/bin/bash
+[[-x empty-file]] && echo "You have permission to exceute this file"
+```
