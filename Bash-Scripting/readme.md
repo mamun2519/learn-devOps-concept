@@ -240,3 +240,15 @@ do
 	echo $cloud_provider
 done
 ```
+
+### While Loop
+
+```jsx
+#!/usr/bin/bash
+cloud_provides= ("AWS" "GCP" "AZURE")
+counter=5
+while [[ $counter == 5]] ; do
+ echo "This is equle"
+done
+
+```
