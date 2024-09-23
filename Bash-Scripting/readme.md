@@ -172,3 +172,13 @@ echo "==================================="
 ls
 pwd
 ```
+
+### Arrays
+
+```jsx
+#!/usr/bin/bash
+names = ("Apple", "Mango")
+echo ${names[0]}
+```
+
+note: bydefult retune first element. if you need get all element use ${names[@]}
