@@ -128,3 +128,28 @@ else
 
 fi
 ```
+
+### Conditions using case
+
+```jsx
+#!/usr/bin/bash
+
+echo "1. Show current directory"
+echo "2. Show date"
+echo "Enter Other number to exist"
+
+read variable
+case $variable in
+	1)
+		ls
+		;;
+	2)
+		date
+			;;
+	*)
+		echo "invalid choise"
+		exist
+		;;
+esac
+
+```
