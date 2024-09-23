@@ -252,3 +252,22 @@ while [[ $counter == 5]] ; do
 done
 
 ```
+
+### Functions
+
+```jsx
+#!/usr/bin/bash
+
+calculate_sum(){
+ num1=$1
+ num$2
+ sum= $ (( num1 + num2 ))
+ echo sum
+}
+calculate_sum 12 18
+```
+
+note:
+
+- Al The same functions are in another programming language
+- if you send a parameter you can send a position argument
