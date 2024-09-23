@@ -228,3 +228,15 @@ command operators
 #!/usr/bin/bash
 [[-x empty-file]] && echo "You have permission to exceute this file"
 ```
+
+### For Lop
+
+```jsx
+#!/usr/bin/bash
+cloud_provides= ("AWS" "GCP" "AZURE")
+for  cloud_provider in  "{$cloud_provides[@]}"
+do
+	// command to be excuted
+	echo $cloud_provider
+done
+```
