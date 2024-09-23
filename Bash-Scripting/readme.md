@@ -179,6 +179,18 @@ pwd
 #!/usr/bin/bash
 names = ("Apple", "Mango")
 echo ${names[0]}
+
+//Se all element
+echo ${names[@]}
+
+//assing new element
+names[2] = "Banana"
+echo $names[@]
+
+// use lom
+for name in "${names[@]}"; do
+ echo $name
+done
 ```
 
-note: bydefult retune first element. if you need get all element use ${names[@]}
+note: bydefult retune first element. if you need to get all elements use ${names[@]}
