@@ -11,6 +11,12 @@
 - fish
 - zsh
 
+### What is my shell types?
+
+⇒ you can check using this command
+
+- echo $0
+
 ### Why Bash-Scripting?
 
 ⇒ System maintenance and monitoring: Bash scripting **allows administrators to monitor system health and perform maintenance tasks**.
