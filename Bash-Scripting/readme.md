@@ -18,6 +18,12 @@
 - echo $0
 - check present shell ⇒ cat etc/shells
 
+### What is shell scripting?
+
+- Shell script consists of a set of commands to perform a task.
+- all the commands execute sequentially.
+- some tasks like file manipulation, program execution, user interaction, automation of tasks, etc can be done.
+
 ### Why Bash-Scripting?
 
 ⇒ System maintenance and monitoring: Bash scripting **allows administrators to monitor system health and perform maintenance tasks**.
