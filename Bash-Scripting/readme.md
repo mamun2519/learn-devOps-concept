@@ -24,6 +24,10 @@
 - all the commands execute sequentially.
 - some tasks like file manipulation, program execution, user interaction, automation of tasks, etc can be done.
 
+### What Is Shebang?
+
+⇒ This is call #!/bin/bash
+
 ### Why Bash-Scripting?
 
 ⇒ System maintenance and monitoring: Bash scripting **allows administrators to monitor system health and perform maintenance tasks**.
