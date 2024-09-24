@@ -16,6 +16,7 @@
 ⇒ you can check using this command
 
 - echo $0
+- check present shell ⇒ cat etc/shells
 
 ### Why Bash-Scripting?
 
