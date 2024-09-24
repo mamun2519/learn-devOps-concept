@@ -1,3 +1,16 @@
+### What Is Linux Shell?
+
+⇒ A shell provides an environment to a user to execute commands and interact with the kernel.
+
+### There are different types of shell
+
+- Bash
+- sh
+- KSH
+- tsh
+- fish
+- zsh
+
 ### Why Bash-Scripting?
 
 ⇒ System maintenance and monitoring: Bash scripting **allows administrators to monitor system health and perform maintenance tasks**.
