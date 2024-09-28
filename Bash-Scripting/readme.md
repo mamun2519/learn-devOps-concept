@@ -265,6 +265,15 @@ pwd
 
 ### Arrays
 
+⇒ How to define an array
+
+- myArray = (1 2 hello “hey Man”
+
+⇒ How do you get values from an array?
+
+- echo ${myArray[0]}
+- echo ${myArray[1]}
+
 ```jsx
 #!/usr/bin/bash
 names = ("Apple", "Mango")
