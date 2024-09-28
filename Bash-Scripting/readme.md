@@ -89,6 +89,10 @@ comment
 
 ### Variables In bash
 
+- VAR_NAME=value
+- VAR_NAME=$(hostname)
+- echo $VAR_NAME
+
 ```jsx
 #!usr/bin/bash
 name="Mohammad Mamun"
