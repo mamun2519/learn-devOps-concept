@@ -48,6 +48,16 @@ eco "Hello World"
 - first, check file info ⇒ ls -l DevOps.sh
 - then allow permission executable ⇒ cmod +x .devops.sh
 
+### How To Run a Script
+
+- Make Sure the script has execute permission rwx
+- run using
+  - ./script.sh
+  - path/script.sh
+  - bash script. sh
+- ctrl+ c to terminate
+- ctrl+z to stop
+
 ### Variables In bash
 
 ```jsx
