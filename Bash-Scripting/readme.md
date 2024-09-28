@@ -105,6 +105,12 @@ echo "My Name Is ${name}"
 
 Note: Do not space in the variable name
 
+### Constant Variable
+
+⇒ Once you defined a variable and didn't wanna change it until end of the script.
+
+- readonly var_name=”hello”
+
 ### Variable Expansion
 
 ```jsx
