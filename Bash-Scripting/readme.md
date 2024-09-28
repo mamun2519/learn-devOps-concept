@@ -267,7 +267,7 @@ pwd
 
 ⇒ How to define an array
 
-- myArray = (1 2 hello “hey Man”
+- myArray = (1 2 hello “hey Man”)
 
 ⇒ How do you get values from an array?
 
@@ -284,7 +284,7 @@ echo ${names[@]}
 
 //assing new element
 names[2] = "Banana"
-echo $names[@]
+echo $names[*]
 
 // use lom
 for name in "${names[@]}"; do
