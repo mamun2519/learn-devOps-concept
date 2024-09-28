@@ -62,6 +62,10 @@ eco "Hello World"
 
 - ls -ltr
 
+### Allow Executable permission
+
+- chmod +x fileName
+
 ### Variables In bash
 
 ```jsx
