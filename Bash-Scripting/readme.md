@@ -70,6 +70,22 @@ eco "Hello World"
 
 - Singe Line comment ⇒ #This is comment
 - Multi-Line comment <<comment ….. comment
+- Multi-Line comment <<comment ….. comment
+
+```jsx
+#!/bin/bash
+
+echo " Checking Comment"
+
+#This is a single line comment
+
+<<comment
+This is multi
+line
+comments
+comment
+
+```
 
 ### Variables In bash
 
