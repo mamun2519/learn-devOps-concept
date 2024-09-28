@@ -94,11 +94,22 @@ comment
 - echo $VAR_NAME
 
 ```jsx
-#!usr/bin/bash
-name="Mohammad Mamun"
+#1/bin/bash
 
-echo "My Name Is ${name}"
-~
+#How to use variable
+
+name="Mohammad Mamun"
+age=22
+echo "My Name Is $name Or My age $age"
+
+#Variable to store the output of a comman
+HOSTNAME=$(hostname)
+echo "Name of this machine is $HOSTNAME"
+
+#constant varibale
+readonly collage="City"
+echo "my collage name is $collage"
+
 ```
 
 - use this variable I $ sing or use this variable I doller sing or curly bracket
