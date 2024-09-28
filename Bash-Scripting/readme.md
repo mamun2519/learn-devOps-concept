@@ -273,6 +273,13 @@ pwd
 
 - echo ${myArray[0]}
 - echo ${myArray[1]}
+  ⇒ How to get the length of the array?
+
+- echo “${#myArray[*]}”
+
+⇒ How to get specific values
+
+- echo ${myArray[*]:1}”
 
 ```jsx
 #!/usr/bin/bash
