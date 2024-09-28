@@ -58,6 +58,10 @@ eco "Hello World"
 - ctrl+ c to terminate
 - ctrl+z to stop
 
+### Check File Permission
+
+- ls -ltr
+
 ### Variables In bash
 
 ```jsx
