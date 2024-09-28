@@ -66,6 +66,11 @@ eco "Hello World"
 
 - chmod +x fileName
 
+### Comment
+
+- Singe Line comment ⇒ #This is comment
+- Multi-Line comment <<comment ….. comment
+
 ### Variables In bash
 
 ```jsx
