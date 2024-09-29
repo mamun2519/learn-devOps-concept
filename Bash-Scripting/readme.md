@@ -185,6 +185,15 @@ echo "After Slice ${myVar:4:5}"
 - read <var_name>
 - read -p “Your name” name
 
+```jsx
+#!/bin/bash
+echo "What Is your name?"
+read  name
+
+echo "Your Name is $name"
+~
+```
+
 ### User input and arguments
 
 - we can receive user input using the **read** keyword
