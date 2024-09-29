@@ -280,6 +280,9 @@ pwd
 ⇒ How to get specific values
 
 - echo ${myArray[*]:1}”
+  ⇒ How To update an array
+
+- myArray+=(5 6 8)
 
 ```jsx
 #!/usr/bin/bash
@@ -302,7 +305,7 @@ done
 note: bydefult retune first element. if you need to get all elements use ${names[@]}
 
 ```jsx
-#!/bin/bash
+!/bin/bash
 
 #Normal Array
 myArray=(1 20 30.5  hello "Hey Mamun!")
@@ -316,6 +319,12 @@ echo "Number of values , length of array is ${#myArray[*]}
 "
 
 echo "values from index 2-3 ${myArray[*]:2:2}"
+
+#Updateing our array with new vales
+myArray+=(2 5 6)
+
+echo "Values of new array ${myArray[*]}"
+~
 
 ```
 
