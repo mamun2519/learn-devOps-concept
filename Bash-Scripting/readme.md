@@ -149,6 +149,15 @@ echo "My updated name is ${name/Mohammad/Md}"
 
 Note: echo means kind of console.log
 
+### String Operations
+
+- myVar= “Hello world”
+- length=${#myVar}
+- upper=$x>>
+- lower=${y,,}
+- replace=${myVar/wordl/buddy}
+- slice=${myVar:6:11}
+
 ### User input and arguments
 
 - we can receive user input using the **read** keyword
