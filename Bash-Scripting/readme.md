@@ -178,6 +178,13 @@ echo "After Slice ${myVar:4:5}"
 
 ```
 
+### User interaction
+
+⇒ Taking input from user
+
+- read <var_name>
+- read -p “Your name” name
+
 ### User input and arguments
 
 - we can receive user input using the **read** keyword
