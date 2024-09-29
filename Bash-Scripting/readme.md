@@ -328,6 +328,13 @@ echo "Values of new array ${myArray[*]}"
 
 ```
 
+### Array KEY-VALUES
+
+⇒ declare -A myArray
+
+- myArray = ([name]=Mamun [age]=20)
+- echo “$myArray[name]}”
+
 ### Array Manipulation
 
 ```jsx
