@@ -335,6 +335,19 @@ echo "Values of new array ${myArray[*]}"
 - myArray = ([name]=Mamun [age]=20)
 - echo “$myArray[name]}”
 
+```jsx
+!/bin/bash
+
+#How to sore the key values paires
+
+declare -A myArray
+myArray=([name]=Mamun [age]=22)
+
+echo "Name is ${myArray[name]}"
+echo "Age is ${myArray[age]}"
+
+```
+
 ### Array Manipulation
 
 ```jsx
