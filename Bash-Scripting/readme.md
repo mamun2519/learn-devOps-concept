@@ -158,6 +158,26 @@ Note: echo means kind of console.log
 - replace=${myVar/wordl/buddy}
 - slice=${myVar:6:11}
 
+```jsx
+#!/bin.bash
+
+myVar="Hey Mamun, How are you?"
+
+myVarLength=${#myVar}
+echo "Length of my var $myVarLength"
+
+echo "lower case is ${myVar,,}"
+
+#Replace word
+newVar=${myVar/Mamun/juboraj}
+
+echo "new var $newVar"
+
+# Slice string
+echo "After Slice ${myVar:4:5}"
+
+```
+
 ### User input and arguments
 
 - we can receive user input using the **read** keyword
