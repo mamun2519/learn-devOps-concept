@@ -301,6 +301,24 @@ done
 
 note: bydefult retune first element. if you need to get all elements use ${names[@]}
 
+```jsx
+#!/bin/bash
+
+#Normal Array
+myArray=(1 20 30.5  hello "Hey Mamun!")
+echo "Value In 3th index ${myArray[3]}"
+
+#all the value in print
+echo "All Value Is ${myArray[*]}"
+
+#How to find no of values in array
+echo "Number of values , length of array is ${#myArray[*]}
+"
+
+echo "values from index 2-3 ${myArray[*]:2:2}"
+
+```
+
 ### Array Manipulation
 
 ```jsx
