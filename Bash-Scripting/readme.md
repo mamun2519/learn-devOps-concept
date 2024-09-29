@@ -190,7 +190,11 @@ echo "After Slice ${myVar:4:5}"
 echo "What Is your name?"
 read  name
 
-echo "Your Name is $name"
+#echo "Your Name is $name"
+
+# Another way
+read -p "what is your name: " name
+~
 ~
 ```
 
