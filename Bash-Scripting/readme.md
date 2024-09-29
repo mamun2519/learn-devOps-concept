@@ -221,6 +221,16 @@ age=$2
 echo "my name is ${name} or ${age}"
 ```
 
+### Arithmetic Operations
+
+⇒ how to use expressions
+
+- using let command
+- let a++
+- let a=5\*10
+- ((a++))
+- ((a=5\*10))
+
 ### Conditional Statement intro
 
 ⇒ programming language we use if else. The bash script is almost the same.
