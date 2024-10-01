@@ -249,6 +249,13 @@ echo "$(($x-$y))"
 
 ⇒ programming language we use if else. The bash script is almost the same.
 
+- if [$marks -gt 40]
+- then
+  - echo “You are pass”
+- else
+  - echo “You fail”
+- fi
+
 ```jsx
 #!/usr/bin/bash
 
