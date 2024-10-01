@@ -344,6 +344,7 @@ read choice
 case $choice in
 	a) date;;
 	b) ls ;;
+	c) pwd ;;
 	*) echo "Non a valid input"
 esac
 
@@ -481,6 +482,15 @@ command operators
 - && - AND
 - || -OR
 - !
+  **use case**
+
+⇒ conditions && conditon2
+
+- If both conditions are true then true else false
+
+⇒ conditions || conditon2
+
+- if any of the condition is true then true
 
 ```jsx
 #!/usr/bin/bash
