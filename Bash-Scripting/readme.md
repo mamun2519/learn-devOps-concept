@@ -240,6 +240,9 @@ y=10
 let mul=$x*$y
 echo "$mul"
 ~
+#Another way
+echo "$(($x-$y))"
+
 ```
 
 ### Conditional Statement intro
