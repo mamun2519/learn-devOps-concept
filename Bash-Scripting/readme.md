@@ -231,6 +231,17 @@ echo "my name is ${name} or ${age}"
 - ((a++))
 - ((a=5\*10))
 
+```jsx
+#!/bin/bash
+
+#math calculation
+x=20
+y=10
+let mul=$x*$y
+echo "$mul"
+~
+```
+
 ### Conditional Statement intro
 
 ⇒ programming language we use if else. The bash script is almost the same.
