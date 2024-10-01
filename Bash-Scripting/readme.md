@@ -255,6 +255,14 @@ echo "$(($x-$y))"
 - else
   - echo “You fail”
 - fi
+  **Operators**
+
+- equal = -eq / ==
+- grater then or eualto ===== -ge
+- less than or equal === -le
+- not equal ===== -ne / ≠
+- grater then ==== gt
+- less then ======== -l
 
 ```jsx
 #!/usr/bin/bash
