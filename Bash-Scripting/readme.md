@@ -332,6 +332,23 @@ esac
 
 ```
 
+### Case
+
+⇒ syntax
+
+```jsx
+echo "hey choose an option"
+echo "a = To see the current data"
+echo "b = list all the files current dir"
+read choice
+case $choice in
+	a) date;;
+	b) ls ;;
+	*) echo "Non a valid input"
+esac
+
+```
+
 ### Subshell
 
 ⇒ Subshells are **separate instances of the command process, run as a new process, and defined within your scripts using ()** . Because a subshell is run in a new process, these can be used for parallel processing (although we will not cover that here).
