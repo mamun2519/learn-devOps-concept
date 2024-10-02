@@ -481,14 +481,30 @@ command operators
 
 - && - AND
 - || -OR
-- !
-  **use case**
+- !**use case**
 
 ⇒ conditions && conditon2
 
 - If both conditions are true then true else false
 
 ⇒ conditions || conditon2
+
+- if any of the condition is true then true
+  **use case**
+
+⇒ conditions && condition2
+
+- If both conditions are true then true else false
+
+⇒ conditions || conditi**use case**
+
+⇒ conditions && conditon2
+
+- If both conditions are true then true else false
+
+⇒ conditions || conditon2
+
+- if any of the condition is true then trueon2
 
 - if any of the condition is true then true
 
@@ -500,7 +516,19 @@ command operators
 ### For Lop
 
 ```jsx
+
 #!/usr/bin/bash
+//example
+for i in 1234
+do
+	echo "Number is $i"
+done
+
+//anoter way to write for loop
+for j in raju sham baburao
+for p in {1...20}
+
+//example
 cloud_provides= ("AWS" "GCP" "AZURE")
 for  cloud_provider in  "{$cloud_provides[@]}"
 do
