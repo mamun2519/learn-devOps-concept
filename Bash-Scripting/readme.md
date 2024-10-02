@@ -613,3 +613,7 @@ note:
 
 - Al The same functions are in another programming language
 - if you send a parameter you can send a position argument
+
+### Argument Pass in script
+
+⇒ #myscript.sh arg1 arg2
