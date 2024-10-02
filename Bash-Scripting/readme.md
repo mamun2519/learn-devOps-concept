@@ -574,6 +574,10 @@ done
 
 ### Functions
 
+- Block Of code which perform some task and run when it is called.
+- can be reuse many times in our program which lessen our lines of code.
+- we can pass arguments to the method.
+
 ```jsx
 #!/usr/bin/bash
 
