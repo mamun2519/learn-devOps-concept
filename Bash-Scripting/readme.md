@@ -577,6 +577,22 @@ done
 - Block Of code which perform some task and run when it is called.
 - can be reuse many times in our program which lessen our lines of code.
 - we can pass arguments to the method.
+  **how to make a function**
+
+```jsx
+//way one
+function myFun {
+echo "Hi"
+}
+
+// another way
+myFun (){
+echo "Hello"
+}
+
+// to call the function
+myFun
+```
 
 ```jsx
 #!/usr/bin/bash
