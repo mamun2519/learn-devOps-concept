@@ -525,7 +525,7 @@ do
 done
 
 //anoter way to write for loop
-for j in raju sham baburao
+for j in Mohammad Mamun
 for p in {1...20}
 
 //example
@@ -547,6 +547,19 @@ while [[ $counter == 5]] ; do
  echo "This is equle"
 done
 
+```
+
+### Until Loop
+
+⇒ almost while loop similar work
+
+```jsx
+a=10
+until [$a -eq 1 ]
+	do
+		echo $a
+		a "extra s$ -1 "
+	done
 ```
 
 ### Functions
