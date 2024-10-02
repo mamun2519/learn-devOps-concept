@@ -617,3 +617,6 @@ note:
 ### Argument Pass in script
 
 ⇒ #myscript.sh arg1 arg2
+
+- how to access these arguments inside our script?
+- to get no. of argument no of arguments :$#
