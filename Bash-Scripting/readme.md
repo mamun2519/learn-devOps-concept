@@ -594,16 +594,19 @@ echo "Hello"
 myFun
 ```
 
-```jsx
-#!/usr/bin/bash
+**How to use argument in functions?**
 
-calculate_sum(){
- num1=$1
- num$2
- sum= $ (( num1 + num2 ))
- echo sum
-}
-calculate_sum 12 18
+```jsx
+addition(){
+
+ local num1=$1
+ local num2=$2
+ let sum=$num1+$$num@
+ echo "Sum of $sum"
+
+ }
+ //call the function
+ addition 1 2
 ```
 
 note:
