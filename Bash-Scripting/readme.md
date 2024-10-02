@@ -562,6 +562,16 @@ until [$a -eq 1 ]
 	done
 ```
 
+### Infinite Loop
+
+```jsx
+while true
+do
+	echo "Hi"
+	sleep 2s
+done
+```
+
 ### Functions
 
 ```jsx
