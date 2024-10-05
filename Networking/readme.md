@@ -13,3 +13,9 @@
 - Dynamic vs static IP address assignment
 - The concept of DHCP
 - subnets
+
+**IP Address**
+
+- What are IP addresses?
+- Private vs public IP Addresses
+- Example
