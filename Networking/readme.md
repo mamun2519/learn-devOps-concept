@@ -27,3 +27,14 @@
 - Classes A,B and C are used on the internet
 - Class D is reserved for multicast addresses
 - class E isn't used currently.
+
+### Subnet Introduction
+
+- Subneting for network segmentation
+  - Efficient Security
+  - Simplified Management
+  - Routing Efficiency
+- Subnet Io Calculation
+- CIDR Block
+- Network Address
+- Broadcast Ip
