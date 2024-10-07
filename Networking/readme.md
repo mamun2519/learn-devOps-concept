@@ -33,6 +33,7 @@ Example⇒ user ⇒ DNS ⇒ IP = NetFlix
 ### IP Address
 
 ⇒**_An IP address is a unique address that identifies a device on the internet or a local network_**.
+Note: IPV4 Is limited. that way lonch IPv6
 
 ### Role Of Networking In DevOps
 
