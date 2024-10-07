@@ -34,6 +34,7 @@ Example⇒ user ⇒ DNS ⇒ IP = NetFlix
 
 ⇒**_An IP address is a unique address that identifies a device on the internet or a local network_**.
 Note: IPV4 Is limited. that way lonch IPv6
+⇒ Running Work Ipv4. this problem solve subNet.
 
 ### Role Of Networking In DevOps
 
