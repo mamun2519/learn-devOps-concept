@@ -33,8 +33,12 @@ Example⇒ user ⇒ DNS ⇒ IP = NetFlix
 ### IP Address
 
 ⇒**_An IP address is a unique address that identifies a device on the internet or a local network_**.
-Note: IPV4 Is limited. that way lonch IPv6
+Note: IPV4 Is limited. that way lunch IPv6
 ⇒ Running Work Ipv4. this problem solve subNet.
+
+### Subnet
+
+⇒When a bigger network is divided into smaller networks, to maintain security, then that is known as Subnetting. So, maintenance is easier for smaller networks. For example, if we consider a [**class A address**](https://www.geeksforgeeks.org/introduction-of-classful-ip-addressing), the possible number of hosts is 224 for each network, it is obvious that it is difficult to maintain such a huge number of hosts, but it would be quite easier to maintain if we divide the network into small parts.
 
 ### Role Of Networking In DevOps
 
