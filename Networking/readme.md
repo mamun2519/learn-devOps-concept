@@ -30,6 +30,10 @@ Example⇒ user ⇒ DNS ⇒ IP = NetFlix
 - Internet
 - Network Access
 
+### IP Address
+
+⇒**_An IP address is a unique address that identifies a device on the internet or a local network_**.
+
 ### Role Of Networking In DevOps
 
 - Infrastructure Provisioning
