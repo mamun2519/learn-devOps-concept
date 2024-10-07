@@ -10,6 +10,16 @@
 
 Example⇒ user ⇒ DNS ⇒ IP = NetFlix
 
+### OSI Model
+
+- Application (HTTP/HTTPS)
+- Presentation (Syntax, security)
+- Session (API, Socket)
+- Transport (TCP)
+- Network (Packets)
+- Data Link (Ethernet)
+- Physical
+
 ### Role Of Networking In DevOps
 
 - Infrastructure Provisioning
