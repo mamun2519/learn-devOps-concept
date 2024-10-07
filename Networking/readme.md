@@ -23,6 +23,13 @@ Example⇒ user ⇒ DNS ⇒ IP = NetFlix
 
 ⇒ **Hardware Part:** Network, Data Link, Physical
 
+### TCP/IP Layer
+
+- Application
+- Transport
+- Internet
+- Network Access
+
 ### Role Of Networking In DevOps
 
 - Infrastructure Provisioning
