@@ -19,6 +19,9 @@ Example⇒ user ⇒ DNS ⇒ IP = NetFlix
 - Network (Packets)
 - Data Link (Ethernet)
 - Physical
+  ⇒ **Software Part:** Application, Presentation, Session, Transport
+
+⇒ **Hardware Part:** Network, Data Link, Physical
 
 ### Role Of Networking In DevOps
 
