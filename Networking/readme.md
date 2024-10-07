@@ -4,6 +4,8 @@
 
 ### How Does Net Work?
 
+⇒ Computers connect to each other and to the Internet via wires, cables, radio waves, and other types of networking infrastructure. All data sent over the Internet is translated into pulses of light or electricity, also called "bits," and then interpreted by the receiving computer.
+
 ⇒ first user request DNS services DNS services Request Main Server
 
 Example⇒ user ⇒ DNS ⇒ IP = NetFlix
