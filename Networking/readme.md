@@ -2,7 +2,11 @@
 
 **⇒** Networking, or computer networking, is the process of connecting two or more computing devices, such as desktop computers, mobile devices, routers or applications, to enable the transmission and exchange of information and resources.
 
-### How Does Net work?
+### How Does Net Work?
+
+⇒ first user request DNS services DNS services Request Main Server
+
+Example⇒ user ⇒ DNS ⇒ IP = NetFlix
 
 ### Role Of Networking In DevOps
 
