@@ -48,6 +48,10 @@ Note: IPV4 Is limited. that way lunch IPv6
 
 ⇒ A virtual private cloud (VPC) is the division of a service provider's [public cloud](https://www.techtarget.com/searchcloudcomputing/definition/public-cloud) multi-tenant architecture to support [private cloud](https://www.techtarget.com/searchcloudcomputing/definition/private-cloud) computing. VPCs are, therefore, a private cloud hosted within a public cloud architecture. This model enables an enterprise to achieve the benefits of private clouds (such as more granular control over virtual networks and an isolated environment) while using public cloud resources.
 
+### What is Firewall
+
+⇒ A firewall is a network security device designed to monitor, filter, and control incoming and outgoing network traffic based on predetermined security rules. The primary purpose of a firewall is to establish a barrier between a trusted internal network and untrusted external networks.
+
 ### Role Of Networking In DevOps
 
 - Infrastructure Provisioning
