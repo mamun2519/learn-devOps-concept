@@ -40,6 +40,10 @@ Note: IPV4 Is limited. that way lunch IPv6
 
 ⇒When a bigger network is divided into smaller networks, to maintain security, then that is known as Subnetting. So, maintenance is easier for smaller networks. For example, if we consider a [**class A address**](https://www.geeksforgeeks.org/introduction-of-classful-ip-addressing), the possible number of hosts is 224 for each network, it is obvious that it is difficult to maintain such a huge number of hosts, but it would be quite easier to maintain if we divide the network into small parts.
 
+### What Is DNS
+
+⇒ The Domain Name System (DNS) turns domain names into IP addresses, which browsers use to load internet pages. Every device connected to the internet has its own IP address, which is used by other devices to locate the device. DNS servers make it possible for people to input normal words into their browsers, such as [Fortinet.com](http://fortinet.com/), without having to keep track of the IP address for every website.
+
 ### Role Of Networking In DevOps
 
 - Infrastructure Provisioning
