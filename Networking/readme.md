@@ -56,6 +56,10 @@ Note: IPV4 Is limited. that way lunch IPv6
 
 ⇒ **Load balancing is the process of distributing network traffic efficiently among multiple servers to optimize application availability and ensure a positive end-user experience.**
 
+### What IS NAT
+
+⇒ **Network Address Translation (NAT)** is a process in which one or more local IP addresses are translated into one or more Global IP addresses and vice versa to provide Internet access to the local hosts. It also does the translation of port numbers, i.e., masks the port number of the host with another port number in the packet that will be routed to the destination. It then makes the corresponding entries of IP address and port number in the NAT table. NAT generally operates on a [**router or firewall**](https://www.geeksforgeeks.org/difference-between-router-and-firewall/).
+
 ### Role Of Networking In DevOps
 
 - Infrastructure Provisioning
