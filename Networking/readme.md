@@ -52,6 +52,10 @@ Note: IPV4 Is limited. that way lunch IPv6
 
 ⇒ A firewall is a network security device designed to monitor, filter, and control incoming and outgoing network traffic based on predetermined security rules. The primary purpose of a firewall is to establish a barrier between a trusted internal network and untrusted external networks.
 
+### What is a Load Balancer
+
+⇒ **Load balancing is the process of distributing network traffic efficiently among multiple servers to optimize application availability and ensure a positive end-user experience.**
+
 ### Role Of Networking In DevOps
 
 - Infrastructure Provisioning
