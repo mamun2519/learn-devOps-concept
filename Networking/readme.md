@@ -44,6 +44,10 @@ Note: IPV4 Is limited. that way lunch IPv6
 
 ⇒ The Domain Name System (DNS) turns domain names into IP addresses, which browsers use to load internet pages. Every device connected to the internet has its own IP address, which is used by other devices to locate the device. DNS servers make it possible for people to input normal words into their browsers, such as [Fortinet.com](http://fortinet.com/), without having to keep track of the IP address for every website.
 
+### What is VPC
+
+⇒ A virtual private cloud (VPC) is the division of a service provider's [public cloud](https://www.techtarget.com/searchcloudcomputing/definition/public-cloud) multi-tenant architecture to support [private cloud](https://www.techtarget.com/searchcloudcomputing/definition/private-cloud) computing. VPCs are, therefore, a private cloud hosted within a public cloud architecture. This model enables an enterprise to achieve the benefits of private clouds (such as more granular control over virtual networks and an isolated environment) while using public cloud resources.
+
 ### Role Of Networking In DevOps
 
 - Infrastructure Provisioning
