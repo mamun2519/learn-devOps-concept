@@ -38,3 +38,7 @@
 - Docker Image
 - Docker Container
 - Docker Registry
+
+### What is a Docker file
+
+⇒ It is a simple text file with instructions to build an image.
