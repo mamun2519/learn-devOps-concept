@@ -42,3 +42,7 @@
 ### What is a Docker file
 
 ⇒ It is a simple text file with instructions to build an image.
+
+### Docker Registry
+
+⇒ A docker registry is a central repository for storing and distributing docker images.
