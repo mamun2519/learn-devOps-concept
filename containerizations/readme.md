@@ -14,5 +14,8 @@
 ### Docker Container
 
 - Now That you have your recipe, you can create as many containers as you want
-- each holding an instance of your softeware
+- each holding an instance of your software
 - they share the some core recipe(docker image) but can have different setting or data
+- A way to package an application with all the necessary dependencies and configuration.
+- it can be easily shared.
+- Makes deployment and development efficient,
