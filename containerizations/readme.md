@@ -1,3 +1,9 @@
+### What is Docker?
+
+- Docker is a containerization platform for developing, packaging, shipping, and running applications.
+- It provides the ability to run an application in an isolated environment called a container.
+- Makes deployment and development efficient.
+
 ### Docker Image
 
 - Recipe card for your software
