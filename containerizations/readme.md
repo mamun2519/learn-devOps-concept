@@ -19,3 +19,15 @@
 - A way to package an application with all the necessary dependencies and configuration.
 - it can be easily shared.
 - Makes deployment and development efficient,
+
+**Docker**
+
+- Low impact on OS, very fast, low disk space usage.
+- Sharing, re-building, and distribution are easy
+- Encapsulate apps instead of the whole machine.
+
+**VMs**
+
+- High impact on OS, Slower high disk space usage.
+- Sharing re-building and distribution is challenging.
+- Encapsulate the whole machine.
