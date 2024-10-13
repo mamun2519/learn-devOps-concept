@@ -31,3 +31,10 @@
 - High impact on OS, Slower high disk space usage.
 - Sharing re-building and distribution is challenging.
 - Encapsulate the whole machine.
+
+### Main Components of Docker
+
+- Docker File
+- Docker Image
+- Docker Container
+- Docker Registry
