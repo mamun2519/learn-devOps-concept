@@ -66,3 +66,7 @@ EXPORSE 300
 //* run app
 CMD ["npm", "start"]
 ```
+
+### Create a docker image
+
+command ⇒ docker build .
