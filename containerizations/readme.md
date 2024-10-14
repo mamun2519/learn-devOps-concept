@@ -74,5 +74,5 @@ CMD ["npm", "start"]
 
 ### Create a container
 
-- command => docker run imageId
+- docker run -p 3000:3000 docker image
 - stop docker ⇒ docker stop docker name
