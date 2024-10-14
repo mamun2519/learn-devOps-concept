@@ -46,3 +46,23 @@
 ### Docker Registry
 
 ⇒ A docker registry is a central repository for storing and distributing docker images.
+
+### Create the First Docker File
+
+```jsx
+// Set Version
+FROM node:20
+
+// set warking direcotry
+WORKDIR /myapp
+//current directory theke copy kore working directory te pest koro
+COPY ..
+
+// Install all depandancy
+RUN npm install
+
+//set port
+EXPORSE 300
+//* run app
+CMD ["npm", "start"]
+```
