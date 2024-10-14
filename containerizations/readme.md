@@ -71,3 +71,7 @@ CMD ["npm", "start"]
 
 - command ⇒ docker build .
 - check docker image list ⇒ docker image ls
+
+### Create a container
+
+- command => docker run imageId
