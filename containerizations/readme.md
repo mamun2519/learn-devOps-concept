@@ -69,4 +69,5 @@ CMD ["npm", "start"]
 
 ### Create a docker image
 
-command ⇒ docker build .
+- command ⇒ docker build .
+- check docker image list ⇒ docker image ls
