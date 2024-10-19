@@ -76,3 +76,9 @@ CMD ["npm", "start"]
 
 - docker run -p 3000:3000 docker image
 - stop docker ⇒ docker stop docker name
+
+### Container Management
+
+- check all running containers ⇒ docker ps
+- check all containers ⇒ docker ps -a
+- remove docker container ⇒ docker rm imageName
