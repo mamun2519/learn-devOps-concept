@@ -91,3 +91,9 @@ CMD ["npm", "start"]
 - Check docker image ⇒ docker image ls
 - set docker image when creating ⇒ docker build -t “mywebapp:01” .
 - delete image ⇒ docker rmi imageName
+
+### What Is we update project
+
+⇒ existing project any features change like testing, add a new test case. that time how do you update the existing docker image?
+
+- first create a docker image ⇒ docker build -t mywebApp:02 .
