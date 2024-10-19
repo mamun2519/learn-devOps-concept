@@ -97,3 +97,10 @@ CMD ["npm", "start"]
 ⇒ existing project any features change like testing, add a new test case. that time how do you update the existing docker image?
 
 - first create a docker image ⇒ docker build -t mywebApp:02 .
+- start container ⇒ docker run -d —rm —name “mywebapp” -p 3001:3000 myWebapp02
+
+### Pre-Defined Docker Image
+
+⇒ use build-in the docker image. docker provides lots of images.
+
+- build in docker image use ⇒ docker pull image
