@@ -91,6 +91,7 @@ CMD ["npm", "start"]
 - Check docker image ⇒ docker image ls
 - set docker image when creating ⇒ docker build -t “mywebapp:01” .
 - delete image ⇒ docker rmi imageName
+- rename docker image ⇒ docker tag currentImageName newName
 
 ### What Is we update project
 
