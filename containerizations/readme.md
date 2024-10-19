@@ -85,3 +85,9 @@ CMD ["npm", "start"]
 - automatic when docker stop that time container remove ⇒ docker run -d —rm -p port:port imageName
 - docker container stop ⇒ docker stop container name
 - set docker name ⇒ docker run -d —rm —name “container name” -p port: port imageName
+
+### Managing Docker Image
+
+- Check docker image ⇒ docker image ls
+- set docker image when creating ⇒ docker build -t “mywebapp:01” .
+- delete image ⇒ docker rmi imageName
