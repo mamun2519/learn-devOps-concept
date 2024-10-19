@@ -104,3 +104,4 @@ CMD ["npm", "start"]
 ⇒ use build-in the docker image. docker provides lots of images.
 
 - build in docker image use ⇒ docker pull image
+- run the docker build in image ⇒ docker run imageName:latest
