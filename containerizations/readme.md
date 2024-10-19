@@ -82,3 +82,5 @@ CMD ["npm", "start"]
 - check all running containers ⇒ docker ps
 - check all containers ⇒ docker ps -a
 - remove docker container ⇒ docker rm imageName
+- automatic when docker stop that time container remove ⇒ docker run -d —rm -p port:port imageName
+- docker container stop ⇒ docker stop container name
