@@ -114,3 +114,9 @@ CMD ["npm", "start"]
   - docker login in your vs code
   - create docker image. must be the image or repo name the same.
   - push docker ⇒ docker push imageName
+
+### Using Our Image Remotely Pull Images
+
+⇒ first must be set up docker. then go docker hub and pull the image.
+
+⇒ then run the image
