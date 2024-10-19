@@ -105,3 +105,11 @@ CMD ["npm", "start"]
 
 - build in docker image use ⇒ docker pull image
 - run the docker build in image ⇒ docker run imageName:latest
+
+### Sharing Docker Image
+
+- go to the docker hub or create a repository
+- push the docker image into the docker hub
+  - docker login in your vs code
+  - create docker image. must be the image or repo name the same.
+  - push docker ⇒ docker push imageName
