@@ -187,4 +187,5 @@ services:
 		containner_name: "mysqldb"
 ```
 
-- under docker-compose ⇒ run docker compose up
+- run docker-compose ⇒ run docker-compose up
+- down docker compose = docker-compose down
