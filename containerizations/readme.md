@@ -124,3 +124,7 @@ CMD ["npm", "start"]
 ### Understand Docker Volumes
 
 A Docker volume is **an independent file system entirely managed by Docker and exists as a normal file or directory on the host, where data is persisted**.
+
+- create docker volume ⇒ docker run -it —rm -v volumeName:directory name imageName
+- check volume ⇒ docker volume ls
+- check volume details ⇒ docker volume inspect myvolume
