@@ -138,3 +138,15 @@ A Docker volume is **an independent file system entirely managed by Docker and 
 ### What is? .dockerignore
 
 ⇒ its kind of gitignore
+
+### Communication From/To Containers
+
+- Working With APis
+  ```jsx
+  FROM python
+  WORKDIR /myApp
+  copy . .
+  //* this point r install when you need external package
+  RUn pip install request
+  CMD ["ython", "api_demo.py"]
+  ```
