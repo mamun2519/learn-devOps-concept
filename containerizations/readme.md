@@ -168,3 +168,23 @@ A Docker volume is **an independent file system entirely managed by Docker and 
 ### Docker Compose
 
 ⇒ configuration file to manage multiple containers running on the same machine.its kind of yml file
+
+### Docker Compose
+
+⇒ configuration file to manage multiple containers running on the same machine.its kind of yml file
+
+⇒ always docker command very large that prove solve docker compose. its provide simple command
+
+- file create ⇒ file.yml
+
+```jsx
+services:
+	mySqlDb:
+		image: "mysql:lates"
+		enveirment:
+			- mySQL="root"
+			- pass = "userInf"
+		containner_name: "mysqldb"
+```
+
+- under docker-compose ⇒ run docker compose up
