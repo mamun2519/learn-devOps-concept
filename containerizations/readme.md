@@ -120,3 +120,7 @@ CMD ["npm", "start"]
 ⇒ first must be set up docker. then go docker hub and pull the image.
 
 ⇒ then run the image
+
+### Understand Docker Volumes
+
+A Docker volume is **an independent file system entirely managed by Docker and exists as a normal file or directory on the host, where data is persisted**.
