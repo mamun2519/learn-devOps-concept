@@ -7,3 +7,12 @@
 - building
 - testing
 - deploy
+
+### Why Jenkins?
+
+- continues integration and continues delivery
+- easy installation
+- easy configuration
+- plugins
+- extensible
+- Distributed
