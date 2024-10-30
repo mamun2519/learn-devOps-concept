@@ -16,3 +16,18 @@
 - plugins
 - extensible
 - Distributed
+
+### What is CI/CD?
+
+⇒ CI/CD is a method of frequently delivering apps to customers by introducing automation into the stages of app development.
+
+### Are three methods provide Jenkins
+
+- Continuous integration
+  - Build
+  - Test
+  - Merge
+- Continues Delivery
+  - Automatically Release To repository
+- Continuous Deployment
+  - Automatically deploy to production
