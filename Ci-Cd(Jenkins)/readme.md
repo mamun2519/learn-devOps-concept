@@ -31,3 +31,9 @@
   - Automatically Release To repository
 - Continuous Deployment
   - Automatically deploy to production
+
+### Lab Setup for Jenkins
+
+- install Jenkins
+- server connects to Jenkins
+  - get server IP =< ifconfig
