@@ -1,0 +1,2 @@
+check shall
+=> echo $SHELL

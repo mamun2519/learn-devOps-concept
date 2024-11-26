@@ -1,1 +1,5 @@
-# chomd +x hello.sh 
+
+
+# chomd +x hello.sh
+
+echo "Hello world" 
