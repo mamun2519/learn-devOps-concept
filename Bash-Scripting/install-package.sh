@@ -1,5 +1,5 @@
-sudo apt update
-sudo apt upgrade
-sudo apt install hollywood
+sudo apt update -y
+sudo apt upgrade -y
+sudo apt install hollywood -y
 echo "hello shell plugin installed!!"
 
