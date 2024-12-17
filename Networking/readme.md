@@ -66,4 +66,3 @@ Note: IPV4 Is limited. that way lunch IPv6
 - Scalability and performance
 - Continuous Integration and deployment
 - Security Implementation
-- Troubleshooting Network issues
