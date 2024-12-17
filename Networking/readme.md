@@ -99,4 +99,3 @@ Note: IPV4 Is limited. that way lunch IPv6
 - Subnet Io Calculation
 - CIDR Block
 - Network Address
-- Broadcast Ip
