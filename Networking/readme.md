@@ -91,5 +91,3 @@ Note: IPV4 Is limited. that way lunch IPv6
 - class E isn't used currently.
 
 ### Subnet Introduction
-
-- Subneting for network segmentation
