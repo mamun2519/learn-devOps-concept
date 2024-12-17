@@ -63,4 +63,3 @@ Note: IPV4 Is limited. that way lunch IPv6
 ### Role Of Networking In DevOps
 
 - Infrastructure Provisioning
-- Scalability and performance
