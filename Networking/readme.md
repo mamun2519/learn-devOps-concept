@@ -77,5 +77,3 @@ Note: IPV4 Is limited. that way lunch IPv6
 - subnets
 
 **IP Address**
-
-- What are IP addresses?
