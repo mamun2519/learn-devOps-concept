@@ -79,4 +79,3 @@ Note: IPV4 Is limited. that way lunch IPv6
 **IP Address**
 
 - What are IP addresses?
-  - 12.122.224.46
