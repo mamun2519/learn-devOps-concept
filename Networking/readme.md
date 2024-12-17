@@ -81,3 +81,7 @@ Note: IPV4 Is limited. that way lunch IPv6
 - What are IP addresses?
   - 12.122.224.46
   - total 32 bit = 4 bytes
+- Private vs public IP Addresses
+- Example
+
+### IP Classes
