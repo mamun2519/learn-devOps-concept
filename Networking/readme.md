@@ -69,5 +69,3 @@ Note: IPV4 Is limited. that way lunch IPv6
 - Troubleshooting Network issues
 
 ### Basic Networking Concepts
-
-- IP Address
