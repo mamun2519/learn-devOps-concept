@@ -67,5 +67,3 @@ Note: IPV4 Is limited. that way lunch IPv6
 - Continuous Integration and deployment
 - Security Implementation
 - Troubleshooting Network issues
-
-### Basic Networking Concepts
