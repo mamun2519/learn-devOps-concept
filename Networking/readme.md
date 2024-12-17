@@ -83,5 +83,3 @@ Note: IPV4 Is limited. that way lunch IPv6
   - total 32 bit = 4 bytes
 - Private vs public IP Addresses
 - Example
-
-### IP Classes
