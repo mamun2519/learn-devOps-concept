@@ -93,4 +93,3 @@ Note: IPV4 Is limited. that way lunch IPv6
 ### Subnet Introduction
 
 - Subneting for network segmentation
-  - Efficient Security
