@@ -85,5 +85,3 @@ Note: IPV4 Is limited. that way lunch IPv6
 - Example
 
 ### IP Classes
-
-- Classes A,B and C are used on the internet
