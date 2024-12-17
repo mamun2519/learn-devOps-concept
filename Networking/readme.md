@@ -64,5 +64,3 @@ Note: IPV4 Is limited. that way lunch IPv6
 
 - Infrastructure Provisioning
 - Scalability and performance
-- Continuous Integration and deployment
-- Security Implementation
