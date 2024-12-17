@@ -75,5 +75,3 @@ Note: IPV4 Is limited. that way lunch IPv6
 - Dynamic vs static IP address assignment
 - The concept of DHCP
 - subnets
-
-**IP Address**
