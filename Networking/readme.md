@@ -95,4 +95,3 @@ Note: IPV4 Is limited. that way lunch IPv6
 - Subneting for network segmentation
   - Efficient Security
   - Simplified Management
-  - Routing Efficiency
