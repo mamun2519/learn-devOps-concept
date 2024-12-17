@@ -71,4 +71,3 @@ Note: IPV4 Is limited. that way lunch IPv6
 ### Basic Networking Concepts
 
 - IP Address
-- Private vs Public IP Address
