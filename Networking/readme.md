@@ -72,3 +72,5 @@ Note: IPV4 Is limited. that way lunch IPv6
 
 - IP Address
 - Private vs Public IP Address
+- Dynamic vs static IP address assignment
+- The concept of DHCP
